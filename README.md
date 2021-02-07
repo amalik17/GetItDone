@@ -4,7 +4,7 @@ Get It Done is an android app that allows building a todo list and basic todo it
 
 Submitted by: Amin Malik
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
