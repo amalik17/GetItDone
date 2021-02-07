@@ -4,7 +4,7 @@ Get It Done is an android app that allows building a todo list and basic todo it
 
 Submitted by: Amin Malik
 
-Time spent: **4** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://giphy.com/gifs/qSMoMZB6NN7Vx7r7NL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/34DtQIm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
